@@ -36,6 +36,7 @@ with st.sidebar:
     st.sidebar.info(
         """
         Source code: <https://github.com/armussah-jacobs/streamlit-template>
+        
         More menu icons: <https://icons.getbootstrap.com>
     """
     )
