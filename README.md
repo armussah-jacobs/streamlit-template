@@ -4,6 +4,6 @@ A streamlit app template for geospatial applications based on [streamlit-option-
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/giswqs/streamlit-template/master?urlpath=proxy/8501/)
 
-App URL: <https://share.streamlit.io/>
+App URL: <[https://share.streamlit.io/](https://armussah-jacobs-streamlit-template-streamlit-app-2js2yy.streamlit.app/)>
 
 ![](https://i.imgur.com/xd64mCi.png)
