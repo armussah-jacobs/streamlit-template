@@ -8,7 +8,7 @@ st.set_page_config(page_title="Streamlit Geospatial", layout="wide")
 # More icons can be found here: https://icons.getbootstrap.com
 
 apps = [
-    {"func": home.app, "title": "Home", "icon": "house"},
+#     {"func": home.app, "title": "Home", "icon": "house"},
     {"func": vector.app, "title": "Upload", "icon": "cloud-upload"},
 ]
 
