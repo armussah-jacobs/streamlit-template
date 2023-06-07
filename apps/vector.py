@@ -61,12 +61,6 @@ def app():
                 lon, lat = leafmap.gdf_centroid(gdf)
                 column_names = gdf.columns.values.tolist()
                 random_column = None
-                with container:
-                    random_color = st.checkbox("Apply random colors", True)
-                    if random_color:
-                        random_column = st.selectbox(
-                            "Select a column to apply random colors", column_names
-                        )
 
                 # m = leafmap.Map(center=(40, -100))
                 m = leafmap.Map(center=(lat, lon))
